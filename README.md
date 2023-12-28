@@ -55,8 +55,12 @@ The application will launch, fetching data from the Rick and Morty API and displ
 
 ## Technologies Used
 
-- **Python:** The application is developed using Python.
-- **Tkinter:** The GUI is built using the Tkinter library.
-- **PIL (Pillow):** Used for image processing and display.
+- ![Python Logo](https://www.python.org/static/community_logos/python-logo.png) **Python:** The application is developed using Python.
+
+- ![Tkinter Logo](https://docs.python.org/3/_static/tkinter-powered.png) **Tkinter:** The GUI components are built using the Tkinter library.
+
+- ![Pillow Logo](https://pillow.readthedocs.io/en/stable/_static/Pillow.svg) **PIL (Pillow):** Used for image processing and display.
+
+## Usage
 
 Happy exploring the Rick and Morty universe!
