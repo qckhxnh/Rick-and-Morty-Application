@@ -1,4 +1,3 @@
-```markdown
 # Rick and Morty Application
 
 This is a simple Python application using Tkinter that allows users to explore information about the characters from the popular TV show "Rick and Morty." The application fetches data from the Rick and Morty API, downloads character images, and presents them in a scrollable list with additional details.
