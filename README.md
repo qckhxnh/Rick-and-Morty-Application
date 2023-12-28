@@ -60,4 +60,3 @@ The application will launch, fetching data from the Rick and Morty API and displ
 - **PIL (Pillow):** Used for image processing and display.
 
 Happy exploring the Rick and Morty universe!
-```
