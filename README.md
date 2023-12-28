@@ -38,11 +38,6 @@ Before running the application, make sure you have the following prerequisites i
 
    This folder is required for storing downloaded character images.
 
-4. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
@@ -64,23 +59,5 @@ The application will launch, fetching data from the Rick and Morty API and displ
 - **Tkinter:** The GUI is built using the Tkinter library.
 - **PIL (Pillow):** Used for image processing and display.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-## Contact
-
-For any inquiries or feedback, please contact the project maintainer:
-
-- Name: Your Name
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-
 Happy exploring the Rick and Morty universe!
 ```
-
-Remember to replace the placeholder values such as `link-to-your-logo.png`, `Your Name`, `your.email@example.com`, and `Your GitHub Profile` with the appropriate information for your project.
